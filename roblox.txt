@@ -1,0 +1,7 @@
+rbxcdn.com
+*.rbxcdn.com
+roblox.com
+*.roblox.com
+apis.roblox.com
+gameinternationalization.roblox.com
+assetgame.roblox.com
