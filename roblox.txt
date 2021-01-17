@@ -5,3 +5,4 @@ roblox.com
 apis.roblox.com
 gameinternationalization.roblox.com
 assetgame.roblox.com
+web.roblox.com
