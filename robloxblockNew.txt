@@ -1,0 +1,8 @@
+### Roblox-Block-List for PiHole 
+0.0.0.0 rbxcdn.com
+0.0.0.0 roblox.com
+0.0.0.0 apis.roblox.com
+0.0.0.0 gameinternationalization.roblox.com
+0.0.0.0 assetgame.roblox.com
+0.0.0.0 web.roblox.com
+0.0.0.0 metrics.roblox.com
